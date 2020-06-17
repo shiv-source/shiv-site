@@ -1,0 +1,15 @@
+{
+  "name": "shivsite-deploye",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Shiv Kumar",
+  "license": "ISC",
+  "homepage": "https://shiv-source.github.io/",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
